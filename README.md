@@ -1,2 +1,2 @@
-[simulation](https://yun-seo-jin.github.io/page3/)
+[simulation](https://yun-seo-jin.github.io/page/)
 
